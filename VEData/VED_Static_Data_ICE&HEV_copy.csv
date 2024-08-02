@@ -1,0 +1,5 @@
+VehId,Vehicle Type,Vehicle Class,Engine Configuration & Displacement,Transmission,Drive Wheels,Generalized_Weight
+140,ICE,NO DATA,4-FI 2.5L,NO DATA,NO DATA,3500
+156,ICE,NO DATA,6-FI 3.5L,6-SP ECT AUTOMATIC,NO DATA,4500
+161,ICE,NO DATA,4-FI 1.8L,NO DATA,NO DATA,3000
+169,ICE,NO DATA,6-FI 3.7L,NO DATA,NO DATA,5000

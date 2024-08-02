@@ -1,0 +1,3 @@
+VehId,Vehicle Type,Vehicle Class,Engine Configuration & Displacement,Transmission,Drive Wheels,Generalized_Weight
+10,EV,Car,ELECTRIC,NO DATA,FWD,3500
+11,PHEV,Car,4-GAS/ELECTRIC 2.0L,CVT,FWD,4000
